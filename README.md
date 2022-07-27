@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Minetac
 - 👀 I’m interested in coding and gaming
-- 🌱 I’m currently trying out HTML + CSS, Javascript and Python
+- 🌱 I’m currently playing around wiht Rust and Python
 - 📫 How to reach me:
   - Discord: Minetac#2675
 
